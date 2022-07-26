@@ -1,0 +1,27 @@
+.prime-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+}
+
+.prime-video-img {
+  height: 55vh;
+  width: 100%;
+}
+
+.sliders-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 40px;
+  background-color: #000000;
+  height: 100%;
+  width: 100%;
+}
+
+.movie-type {
+  font-size: 25px;
+  color: #ffffff;
+  font-family: 'Consolas';
+}
